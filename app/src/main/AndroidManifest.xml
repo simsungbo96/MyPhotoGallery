@@ -13,6 +13,7 @@
         android:theme="@style/Theme.MyPhotoGallery" >
         <activity
             android:name=".PhotoFrameActivity"
+            android:screenOrientation="landscape"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
