@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyPhotoGallery" >
         <activity
-            android:name=".PhotoFrrameActivity"
+            android:name=".PhotoFrameActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
